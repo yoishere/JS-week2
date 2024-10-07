@@ -1,2 +1,4 @@
-# JS-week2
-JS小組任務Week2
+## 團隊成員
+
+- zxlee
+- yoyo
